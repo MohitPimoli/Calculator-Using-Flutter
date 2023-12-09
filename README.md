@@ -33,9 +33,3 @@ This calculator project is a simple implementation of a calculator with basic ar
 
 2. Open any code editor and run the code.
 
-### Usage
-
-
-```python
-# Example usage in [programming language]
-# Add code snippets or usage examples
