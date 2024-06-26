@@ -24,7 +24,7 @@ This calculator project is a simple implementation of a calculator with basic ar
 
 ### NOTE:- To verify your installation of all the components, run the following command.
 ```bash
-    flutter doctor 
+flutter doctor 
 ```
   
 ### Installation
