@@ -23,8 +23,8 @@ This calculator project is a simple implementation of a calculator with basic ar
 - [Chrome](https://www.google.com/chrome/what-you-make-of-it/)
 
 ### NOTE:- To verify your installation of all the components, run the following command.
-    ```bash
-    flutter doctor
+```bash
+    flutter doctor 
     ```
   
 ### Installation
