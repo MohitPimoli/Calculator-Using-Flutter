@@ -28,7 +28,7 @@ This calculator project is a simple implementation of a calculator with basic ar
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/calculator-project.git
+    git clone [https://github.com/your-username/calculator-project](https://github.com/MohitPimoli/Calculator-Using-Flutter-BMI-Calculator-Flutter.git)
     ```
 
 2. Open any code editor and run the code.
