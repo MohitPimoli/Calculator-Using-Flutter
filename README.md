@@ -18,7 +18,7 @@ This calculator project is a simple implementation of a calculator with basic ar
 
 ### Prerequisites
 
-- Flutter SDK
+- Flutter SDK [Click here.](https://docs.flutter.dev/get-started/install/windows/mobile?tab=vscode#install-the-flutter-sdk)
 - Android SDL
 - Code Editor ( Vs Code / Android Studio )
 - Chrome
@@ -31,5 +31,10 @@ This calculator project is a simple implementation of a calculator with basic ar
     git clone https://github.com/MohitPimoli/Calculator-Using-Flutter-BMI-Calculator-Flutter.git
     ```
 
-2. Open any code editor and run the code.
+2. Open the folder in any code editor.
+3. Install Packages by pasting the command in terminal of VScode or click "Packages get" in Android Studio.
+   ```bash
+   flutter pub get
+   ```
+4. Once packages are install run the code.
 
