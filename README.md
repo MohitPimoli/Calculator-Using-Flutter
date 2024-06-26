@@ -18,10 +18,14 @@ This calculator project is a simple implementation of a calculator with basic ar
 
 ### Prerequisites
 
-- Flutter SDK [Click here.](https://docs.flutter.dev/get-started/install/windows/mobile?tab=vscode#install-the-flutter-sdk)
-- Android SDL
-- Code Editor ( Vs Code / Android Studio )
-- Chrome
+- [Flutter SDK](https://docs.flutter.dev/get-started/install/windows/mobile?tab=vscode#install-the-flutter-sdk)
+- Code Editor ( [VSCode](https://code.visualstudio.com/download) / [Android Studio](https://developer.android.com/studio) ) 
+- [Chrome](https://www.google.com/chrome/what-you-make-of-it/)
+
+  # NOTE:- To verify your installation of all the components, run the following command.
+    ```bash
+    flutter doctor
+    ```
   
 ### Installation
 
