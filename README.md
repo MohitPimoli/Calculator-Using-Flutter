@@ -32,7 +32,7 @@ flutter doctor
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/MohitPimoli/Calculator-Using-Flutter-BMI-Calculator-Flutter.git
+    git clone https://github.com/MohitPimoli/Calculator-Using-Flutter.git
     ```
 
 2. Open the folder in any code editor.
