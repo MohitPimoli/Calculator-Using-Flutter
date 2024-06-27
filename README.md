@@ -29,7 +29,7 @@ flutter doctor
   
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository or doenload the zip file.[Download](https://github.com/MohitPimoli/Calculator-Using-Flutter/archive/refs/heads/master.zip)
 
     ```bash
     git clone https://github.com/MohitPimoli/Calculator-Using-Flutter.git
