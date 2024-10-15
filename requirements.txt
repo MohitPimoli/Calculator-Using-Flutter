@@ -1,1 +1,5 @@
-
+cupertino_icons: ^1.0.2
+auto_size_text: ^3.0.0
+math_expressions: ^2.4.0
+flutter_tts: ^3.7.0
+flutter_launcher_icons: ^0.13.1
